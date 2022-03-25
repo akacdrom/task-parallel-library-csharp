@@ -1,5 +1,4 @@
 ﻿using System.Diagnostics;
-using System.Collections;
 namespace Program
 {
     class Program {         
